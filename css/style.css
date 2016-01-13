@@ -1,0 +1,19 @@
+.col-md-4 {
+  text-align: center;
+  padding-bottom: 40px;
+}
+
+.img {
+  padding-bottom: 20px;
+  padding-top: 20px;
+}
+
+body {
+  padding-top: 30px;
+}
+
+.footer {
+  background-color: #34495e;
+  height: 200px;
+  color: white;
+}
